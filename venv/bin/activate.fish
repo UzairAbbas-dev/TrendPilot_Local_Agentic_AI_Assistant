@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/uzair/Pictures/agentic_ai_task_2/venv
+set -gx VIRTUAL_ENV /home/uzair/Pictures/TrendPilot_Local_Agentic_AI_Assistant/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
