@@ -9,7 +9,6 @@
 
 > **Built by:** Uzair Abbas (BS Artificial Intelligence)  
 > **Developed for:** AIRI Team PITB - AI Internship Task 2  
-> **Mentor:** Omar Farooq (Associate AI/ML Engineer)
 
 ---
 
@@ -45,6 +44,15 @@ TrendPilot doesn't just chat; it executes an orchestrated pipeline using `gemma3
 * **State Management:** JSON & Local File I/O
 
 ---
+
+<img width="1851" height="1083" alt="image" src="https://github.com/user-attachments/assets/7f540612-d9d8-485c-9b83-18923e3ebaff" />
+
+<img width="1851" height="1083" alt="image" src="https://github.com/user-attachments/assets/9e6b6c22-338a-4e11-922d-9303dc9d2732" />
+
+<img width="1851" height="1083" alt="image" src="https://github.com/user-attachments/assets/8f6be68b-e234-452d-9168-81034e0c8c3e" />
+<img width="1300" height="555" alt="image" src="https://github.com/user-attachments/assets/c48f9b20-8f3d-49b5-a6de-1f7950e5bde8" />
+
+<img width="642" height="532" alt="Untitled Diagram drawio(39)" src="https://github.com/user-attachments/assets/e4cc6935-023f-4796-8ba1-e723800a59b5" />
 
 ##  Installation & Setup
 
